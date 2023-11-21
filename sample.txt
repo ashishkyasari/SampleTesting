@@ -1,0 +1,16 @@
+This is the sample to represent the Git and the GitHub.
+The content in this in not important.
+This is just for the representation of the document.
+Plz use this just for the reference..
+
+some git commands are:
+
+git init
+
+git status
+
+git add .
+
+git add -m 'first-commit'
+
+
